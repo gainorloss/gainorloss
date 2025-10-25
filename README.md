@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gainorloss&show_icons=true&theme=radical)
+
 ## 🔍 我的项目
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
