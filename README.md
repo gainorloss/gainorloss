@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gainorloss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gainorloss&layout=compact)	
+![GitHub Streak](https://streak-stats.demolay.com/?user=gainorloss)	
+![trophy](https://github-profile-trophy.vercel.app/?username=gainorloss)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gainorloss)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gainorloss.gainorloss)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!&center=true" />
 
 ## 🔍 我的项目
 
